@@ -7,7 +7,7 @@ export default function Codolio() {
             </div>
             <div className="d-flex justify-content-center">
                 <iframe
-                    src="https://codolio.com/profile/Yash-Atkari" // replace with your actual profile URL
+                    src="https://codolio.com/profile/Sajan-Bhoyar" // replace with your actual profile URL
                     title="Codolio Profile"
                     width="90%"
                     height="600"
@@ -18,7 +18,7 @@ export default function Codolio() {
 
             <div className="d-flex justify-content-center align-items-center">
                 <a
-                    href="/Yash_Atkari_Resume.pdf"
+                    href="https://codolio.com/profile/Sajan-Bhoyar"
                     download
                     className="btn text-white mt-4"
                     rel="noopener noreferrer"

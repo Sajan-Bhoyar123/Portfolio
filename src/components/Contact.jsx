@@ -122,10 +122,10 @@ export default function Contact() {
                                 <span className="fs-5 fw-bold">Email</span>
                                 <br />
                                 <a
-                                    href="mailto:yashatkari7@gmail.com"
+                                    href="mailto:sajanbhoyar5@gmail.com"
                                     className="text-secondary"
                                 >
-                                    yashatkari7@gmail.com
+                                    sajanbhoyar5@gmail.com
                                 </a>
                             </p>
 
@@ -136,7 +136,7 @@ export default function Contact() {
                                 ></i>
                                 <span className="fs-5 fw-bold">Phone</span>
                                 <br />
-                                <span className="text-secondary">9529623010</span>
+                                <span className="text-secondary">8459738467</span>
                             </p>
 
                             <p className="mb-4">
@@ -147,12 +147,12 @@ export default function Contact() {
                                 <span className="fs-5 fw-bold">LinkedIn</span>
                                 <br />
                                 <a
-                                href="https://www.linkedin.com/in/yashatkari2005/"
+                                href="https://www.linkedin.com/in/sajan-bhoyar-ba63a4330/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="text-secondary"
                                 >
-                                linkedin.com/in/yashatkari2005
+                                linkedin.com/in/sajan-bhoyar-ba63a4330
                                 </a>
                             </p>
 
@@ -164,12 +164,12 @@ export default function Contact() {
                                 <span className="fs-5 fw-bold">GitHub</span>
                                 <br />
                                 <a
-                                href="https://github.com/Yash-Atkari"
+                                href="https://github.com/Sajan-Bhoyar123"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="text-secondary" 
                                 >
-                                github.com/Yash-Atkari
+                                github.com/Sajan-Bhoyar
                                 </a>
                             </p>
 

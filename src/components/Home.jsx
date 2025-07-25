@@ -22,7 +22,7 @@ export default function Home() {
                     <div className="row align-items-center">
                         <div className="col-12 col-md-6 col-lg-8 mb-4 mb-md-0">
                             <h1 className="fw-bold mb-2">Hi there,</h1>
-                            <h1 className="gradient-text display-5 fw-bold mb-3">I'm Yash Atkari</h1>
+                            <h1 className="gradient-text display-5 fw-bold mb-3">I'm Sajan Bhoyar</h1>
                             <p className="fs-4 lead text-secondary">
                                 <Typewriter
                                     words={[
@@ -56,7 +56,7 @@ export default function Home() {
                 <div className="col-12 text-center pe-3">
                         {/* LinkedIn */}
                         <a
-                            href="https://www.linkedin.com/in/yashatkari2005/"
+                            href="https://www.linkedin.com/in/sajan-bhoyar-ba63a4330/"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="fs-3 ms-3"
@@ -70,7 +70,7 @@ export default function Home() {
 
                         {/* GitHub */}
                         <a
-                            href="https://github.com/Yash-Atkari"
+                            href="https://github.com/Sajan-Bhoyar123"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="fs-3 ms-3"
@@ -84,7 +84,7 @@ export default function Home() {
 
                         {/* Email */}
                         <a
-                            href="mailto:youremail@example.com" // Replace with your actual email
+                            href="sajanbhoyar5@gmail.com" // Replace with your actual email
                             target="_blank"
                             rel="noopener noreferrer"
                             className="fs-3 ms-3"

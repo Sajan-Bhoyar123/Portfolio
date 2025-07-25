@@ -23,7 +23,7 @@ export default function HackathonList() {
             organizer: "Sipna College of Engineering and Technology, Amravati",
             duration: "",
             date: "10 March 2025",
-            certificate: "/Ecothon_4.O_Certificate.jpg",
+            certificate: "/Ecothon_4.O_Certificate.png",
             redirect: ""
         },
         {

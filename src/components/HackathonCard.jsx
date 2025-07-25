@@ -33,11 +33,7 @@ export default function HackathonCard({ name, organizer, duration, date, certifi
                             <i class="fa-solid fa-medal"></i> <span style={{ fontWeight: "600"}}>Certificate</span>
                             </a>
                         )}
-                        {redirect && (
-                            <a href={redirect} target="_blank" rel="noopener noreferrer" className="btn btn-outline-warning">
-                                <i className="fa-brands fa-linkedin-in"></i> <span style={{ fontWeight: "600"}}>LinkedIn</span>
-                            </a>
-                        )}
+                        
                     </div>
                 </div>
             </div>

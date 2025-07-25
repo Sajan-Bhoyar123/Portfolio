@@ -5,7 +5,7 @@ export default function Skills() {
                     {
                         title: "Programming Languages",
                         icon: "fa-solid fa-code text-primary",
-                        items: ["Java", "JavaScript", "Node.js", "C", "Python", "HTML", "CSS"]
+                        items: ["C++", "JavaScript", "Node.js", "C", "Python", "HTML", "CSS"]
                     },
                     {
                         title: "Libraries & Frameworks",

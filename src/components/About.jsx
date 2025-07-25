@@ -19,11 +19,11 @@ export default function About() {
                 <div className="col-12 col-md-6 col-lg-8">
                     <h2 className="display-6 fw-bold mb-4" style={{color: "violet"}}>Who I'm</h2>
                     <p className="mb-3 text-light">
-                        Hello, I’m Yash Atkari from Mandhal, Maharashtra. I’m currently pursuing a Bachelor’s degree in Information Technology at G H Raisoni College of Engineering, Nagpur.
+                        Hello, I’m Sajan Bhoyar from Kuhi, Maharashtra. I’m currently pursuing a Bachelor’s degree in Information Technology at Vishwakarma Institute Of Technology, Pune.
                     </p>
 
                     <p className="mb-3 text-light">
-                        I have completed comprehensive training in Data Structures and Algorithms using Java, solving over 300 problems to strengthen my foundation. Alongside this, I have hands-on experience with the MERN stack—MongoDB, Express.js, React, and Node.js—for full-stack web development. My skills also extend to Firebase services and Bootstrap for UI design. I am proficient in implementing authentication strategies using Passport.js and managing session and database operations with MongoDB, MySQL, and PostgreSQL. Additionally, I have explored Web3 and blockchain technologies like Solidity and smart contracts.
+                        I have completed comprehensive training in Data Structures and Algorithms using C++, solving over 150 problems to strengthen my foundation. Alongside this, I have hands-on experience with the MERN stack—MongoDB, Express.js, React, and Node.js—for full-stack web development. My skills also extend to Firebase services and Bootstrap for UI design. I am proficient in implementing authentication strategies using Passport.js and managing session and database operations with MongoDB, MySQL, and PostgreSQL. Additionally, I have explored Web3 and blockchain technologies like Solidity and smart contracts.
                     </p>
 
                     <p className="mb-3 text-light">
@@ -36,11 +36,11 @@ export default function About() {
                         </div>
                         <div class="info-item col-md-6 mb-4">
                             <span class="label fs-5 fw-bold" style={{ color: "violet" }}>Email</span><br />
-                            <span class="value">yashatkari7@gmail.com</span>
+                            <span class="value">sajanbhoyar5@gmail.com</span>
                         </div>
                         <div class="info-item col-md-6 mb-4">
                             <span class="label fs-5 fw-bold" style={{ color: "violet" }}>Study</span><br />
-                            <span class="value">G H Raisoni College of Engineering, Nagpur</span>
+                            <span class="value">Vishwakarma Institute Of Technology,Pune</span>
                         </div>
                         <div class="info-item col-md-6 mb-4">
                             <span class="label fs-5 fw-bold" style={{ color: "violet" }}>Degree</span><br />
@@ -51,9 +51,9 @@ export default function About() {
 
                 <div className="col-12 col-md-6 col-lg-4 text-center">
                     <img
-                    src="/yash_1.webp"
+                    src="/sajan_image.jpg"
                     loading="lazy"
-                    alt="Yash Profile"
+                    alt="Sajan Profile"
                     className="img-fluid rounded-circle shadow bg-secondary bg-opacity-10"
                     style={{ height: "450px", width: "450px", objectFit: "cover" }}
                     />

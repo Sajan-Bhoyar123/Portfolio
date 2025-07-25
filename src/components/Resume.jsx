@@ -20,7 +20,7 @@ export default function Resume() {
                 </section>
 
                 <a
-                    href="/Yash_Atkari_Resume.pdf"
+                    href="/Sajan_Bhoyar_Resume.pdf"
                     download
                     className="btn text-white mt-4"
                     rel="noopener noreferrer"
