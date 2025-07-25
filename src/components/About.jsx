@@ -51,7 +51,7 @@ export default function About() {
 
                 <div className="col-12 col-md-6 col-lg-4 text-center">
                     <img
-                    src="/sajan_image.jpg"
+                    src="/sajan_1.jpg"
                     loading="lazy"
                     alt="Sajan Profile"
                     className="img-fluid rounded-circle shadow bg-secondary bg-opacity-10"
