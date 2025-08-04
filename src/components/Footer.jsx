@@ -49,7 +49,7 @@ export default function Footer() {
                             <a href="https://www.linkedin.com/in/sajan-bhoyar-ba63a4330/" target="_blank" rel="noopener noreferrer">
                                 <i className="fa-brands fa-linkedin-in"></i>
                             </a>
-                            <a href="https://github.com/Sajan-Bhoyar123" target="_blank" rel="noopener noreferrer">
+                             <a href="https://github.com/Sajan-Bhoyar123" target="_blank" rel="noopener noreferrer">
                                 <i className="fa-brands fa-github"></i>
                             </a>
                             <a href="#"><i className="fa-brands fa-twitter"></i></a>

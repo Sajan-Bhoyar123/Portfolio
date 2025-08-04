@@ -69,7 +69,7 @@ export default function Home() {
                         </a>
 
                         {/* GitHub */}
-                        <a
+                         <a
                             href="https://github.com/Sajan-Bhoyar123"
                             target="_blank"
                             rel="noopener noreferrer"

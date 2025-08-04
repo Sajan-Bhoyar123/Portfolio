@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { FaCalendarAlt } from "react-icons/fa";
 
-export default function Project({ title, src, description, codeUrl, projectUrl, category, date }) {
+export default function Project({ title, src, description,codeUrl, projectUrl, category, date }) {
   const [hovered, setHovered] = useState(false);
 
   return (

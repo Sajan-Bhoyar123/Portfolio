@@ -9,7 +9,7 @@ export default function Resume() {
                 <section style={{ width: "90vw", maxWidth: "1000px" }}>
                     <div className="d-flex align-items-center justify-content-center">
                         <img
-                            src="/Resume.jpg"
+                            src="/Resumee.jpg"
                             title="PDF Viewer"
                             style={{
                                 borderRadius: "10px"
@@ -20,7 +20,7 @@ export default function Resume() {
                 </section>
 
                 <a
-                    href="/Sajan_Bhoyar_Resume.pdf"
+                    href="/sajan_resume.pdf"
                     download
                     className="btn text-white mt-4"
                     rel="noopener noreferrer"
