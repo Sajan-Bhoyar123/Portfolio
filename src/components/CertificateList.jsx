@@ -5,19 +5,19 @@ export default function CertificateList() {
         {
             title: "Introduction Of Artificial Intelligence",
             image: "/AI.jpg",
-            description: "Completed a spoken tutorial training on Python 3.4.3",
+            description: "Completed a Introduction Of Artificial Intelligence Course From Infosys Springboard",
             viewLink: "/Python3.4.3_Certificate.png"
         },
          {
             title: "Data Structures and Algorithm Certificate",
             image: "/DSA_Certificate.png",
-            description: "Completed a course on Data Structures and Algorithm in Java",
+            description: "Completed a course on Data Structures and Algorithm in C++",
             viewLink: "/DSA_Certificate.png"
         },
         {
-            title: "Introduction of Deep Learning",
+            title: "Full Stack Development (MERN Stack)",
             image: "/DL.jpg",
-            description: "Participated in India's Largest Speakathon for Limca Book of Records in GHRCE, Nagpur",
+            description: "Completed a course on Ful Stack Development(MERN).",
             viewLink: "/Speakathon_Certificate.png"
         }
     ];
