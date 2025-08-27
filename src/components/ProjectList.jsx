@@ -8,7 +8,7 @@ export default function ProjectList() {
             src: "/aarogyam_image.webp",
             description: "A secure, cross-platform digital solution for managing student healthcare within educational institutions. Features include passport-based user authentication, student dashboards, automated leave documentation, and initial appointment booking. Built with EJS, Express.js, Node.js, and MongoDB, the system enhances accessibility, data security, and administrative efficiency.",           
              codeUrl: "https://github.com/Sajan-Bhoyar123/Aarogyamm",
-            projectUrl: "https://aarogyam-tgf6.onrender.com",
+            projectUrl: "https://aarogyamm-wd8q.onrender.com",
             category: "Healthcare",
             date: "2025"
         },
@@ -17,7 +17,7 @@ export default function ProjectList() {
             src: "/wanderlust_image.webp",
              codeUrl: "https://github.com/Sajan-Bhoyar123/Airbnb",
             description: "A full-stack Airbnb clone that allows users to explore and book stays across various destinations. Features include property listing, booking management, authentication, and responsive UI. The application is built using Node.js, Express.js, MongoDB, and EJS for server-side rendering. It also exposes RESTful APIs for various operations, ensuring a scalable and modular architecture.",
-            projectUrl: "https://airbnb-1-o1o2.onrender.com",
+            projectUrl: " https://airbnb-e25h.onrender.com",
             category: "Travel",
             date: "2024"
         },
@@ -35,7 +35,7 @@ export default function ProjectList() {
             src: "/Weather-App.jpg",
             description: "The Weather App is a responsive and user-friendly application that provides real-time weather updates for any location worldwide. It uses weather APIs to fetch current weather conditions, including temperature, humidity, wind speed, and weather status (e.g., sunny, rainy, cloudy).",          
              codeUrl: "https://github.com/Sajan-Bhoyar123/Wheather-App",
-            projectUrl: "https://weather-app-t77a.onrender.com",
+            projectUrl: "https://wheather-app-jjec.onrender.com",
             category: "Weather-Detection",
             date: "2025"
         },
@@ -45,7 +45,7 @@ export default function ProjectList() {
             src: "/portfolio_image.jpg",
             description: "A smart system helping students find nearest colleges by location while offering complete college management features for convenience.",
             codeUrl: "https://github.com/Sajan-Bhoyar123/college",
-            projectUrl: "https://college-b3me.onrender.com",
+            projectUrl: " https://college-2-ynyg.onrender.com",
             category: "College",
             date: "2025"
         }
